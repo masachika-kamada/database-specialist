@@ -1,0 +1,1 @@
+CREATE SCHEMA "販売管理";
