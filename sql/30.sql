@@ -1,0 +1,4 @@
+SELECT *
+FROM 販売管理.商品 FULL OUTER JOIN 販売管理.売上明細 USING (商品コード)
+
+-- LEFT OUTER JOIN と RIGHT OUTER JOIN の組み合わせ
